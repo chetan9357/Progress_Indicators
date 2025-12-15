@@ -132,8 +132,11 @@ AnimatedCircularProgress(
   textPosition: ProgressTextPositions.below,
 );
 ```
-## 🎞 Demo (GIF)
-![Progress_Indicators-ezgif com-resize](https://github.com/user-attachments/assets/33413855-fc8e-4457-ae15-175dd1b72019)
+## 🎞 Dem
+
+https://github.com/user-attachments/assets/fef79db6-6b80-4129-af26-623bf4e0bd05
+
+o (Video)
 
 ### Recommended demo content:
 - Animated linear progress
