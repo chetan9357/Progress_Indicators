@@ -132,7 +132,7 @@ AnimatedCircularProgress(
   textPosition: ProgressTextPositions.below,
 );
 ```
-## 🎞 Dem
+## 🎞 Demo
 
 https://github.com/user-attachments/assets/fef79db6-6b80-4129-af26-623bf4e0bd05
 
